@@ -3,5 +3,5 @@ def introduction(name)
 end  
 
 def introduction_with_language(name, language)
-  return introduction(name) + "and I am learning to program in #{language}."
+  introduction(name) + "and I am learning to program in #{language}."
 end
